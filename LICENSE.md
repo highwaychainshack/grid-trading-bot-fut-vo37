@@ -1,4 +1,4 @@
-# 
+# smart Trading Bot for grid trading bot for futures | trailing-stop & API-integration is the best grid trading bot for futures, featuring trailing-stop and API-integration. Smart,
 
 
 
